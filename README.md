@@ -10,6 +10,11 @@ I have several experience in organization such as Unit Berkuda UGM, Society of E
   <a href="https://wa.me/628971289857">WhatsApp</a> <br>
   <a href="https://line.me/ti/p/BIHBZWs-gw">Line</a> <br>
 </details>
+
+<details>
+  <summary> 📝 My Project</summary>
+  -not yet available
+</details>
 <body style="color: red; ">
 
 
