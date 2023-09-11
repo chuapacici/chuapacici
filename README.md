@@ -1,5 +1,5 @@
 # Nazwa Sheptia Salsabilla
-Nazwa is a responsible, active, creative, and adaptive personality. She knows trying new things is how she can continue to process and develop into a highly qualified person. She is interested in the sectors of oil and gas, disaster mitigation, and geothermal exploration.
+Nazwa has a responsible, active, creative, and adaptive personality. She knows trying new things is how she can continue to process and develop into a highly qualified person. She is interested in the sectors of oil and gas, disaster mitigation, and geothermal exploration.
 I have several experience in organization such as Unit Berkuda UGM, Society of Exploration Geophysicists (SEG) UGM, and Paragon Corp.
 
 <details> 
