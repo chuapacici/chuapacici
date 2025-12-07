@@ -6,7 +6,7 @@ how data-driven approaches can enhance reservoir characterization, optimize expl
 accurate decision-making in subsurface evaluation.
 
 <details> 
-  <summary>More about me</summary>  
+  <summary>More about me:</summary>  
   - 👩‍🎓 Undergraduate Geophysics'22 - UGM <br>
   - 🏅 All my experience are available at <a href="https://www.linkedin.com/in/nazwasheptia">linkedin</a> <br>
   - 💌 You may contact me through: <br> <a href="nazwasheptiasalsabila@mail.ugm.ac.id">nazwasheptiasalsabila@mail.ugm.ac.id</a> <br>
