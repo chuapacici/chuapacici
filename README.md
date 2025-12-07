@@ -1,9 +1,5 @@
 # Nazwa Sheptia Salsabilla
-I am a Geophysics student at Universitas Gadjah Mada with a strong interest in the oil and gas sector. I am a responsible, active,
-and adaptive individual who enjoys exploring new things for self-development. I have a solid understanding of petrophysics
-as well as the application of data analysis and machine learning in geophysical data processing. I am particularly interested in
-how data-driven approaches can enhance reservoir characterization, optimize exploration strategies, and support more
-accurate decision-making in subsurface evaluation.
+I am a Geophysics student at Universitas Gadjah Mada with a strong interest in the oil and gas sector. I am a responsible, active, and adaptive individual who enjoys exploring new things for self-development. I have a solid understanding of petrophysics as well as the application of data science in geophysical data processing. I am particularly interested in how data-driven approaches can enhance reservoir characterization, optimize exploration strategies, and support more accurate decision-making in subsurface evaluation.
 
 <details> 
   <summary>More about me:</summary>  
