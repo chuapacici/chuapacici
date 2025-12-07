@@ -1,9 +1,12 @@
 # Nazwa Sheptia Salsabilla
-Nazwa has a responsible, active, creative, and adaptive personality. She knows trying new things is how she can continue to process and develop into a highly qualified person. She is interested in the sectors of oil and gas, disaster mitigation, and geothermal exploration.
-I have several experience in organization such as Unit Berkuda UGM, Society of Exploration Geophysicists (SEG) UGM, and Paragon Corp.
+I am a Geophysics student at Universitas Gadjah Mada with a strong interest in the oil and gas sector. I am a responsible, active,
+and adaptive individual who enjoys exploring new things for self-development. I have a solid understanding of petrophysics
+as well as the application of data analysis and machine learning in geophysical data processing. I am particularly interested in
+how data-driven approaches can enhance reservoir characterization, optimize exploration strategies, and support more
+accurate decision-making in subsurface evaluation.
 
 <details> 
-  <summary>🍃More about me</summary>  
+  <summary>More about me</summary>  
   - 👩‍🎓 Undergraduate Geophysics'22 - UGM <br>
   - 🏅 All my experience are available at <a href="https://www.linkedin.com/in/nazwasheptia">linkedin</a> <br>
   - 💌 You may contact me through: <br> <a href="nazwasheptiasalsabila@mail.ugm.ac.id">nazwasheptiasalsabila@mail.ugm.ac.id</a> <br>
@@ -12,7 +15,7 @@ I have several experience in organization such as Unit Berkuda UGM, Society of E
 </details>
 
 <details>
-  <summary> 📝 My Project</summary>
+  <summary>Project:</summary>
   -not yet available
 </details>
 <body style="color: red; ">
