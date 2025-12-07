@@ -9,7 +9,7 @@ accurate decision-making in subsurface evaluation.
   <summary>More about me:</summary>  
   - 👩‍🎓 Undergraduate Geophysics'22 - UGM <br>
   - 🏅 All my experience are available at <a href="https://www.linkedin.com/in/nazwasheptia">linkedin</a> <br>
-  - 💌 You may contact me through: <br> <a href="nazwasheptia@gmail.com">nazwasheptiasalsabila@mail.ugm.ac.id</a> <br>
+  - 💌 You may contact me through: <br> <a href="nazwasheptia@gmail.com">nazwasheptia@gmail.com</a> <br>
   <a href="https://wa.me/628971289857">WhatsApp</a> <br>
   <a href="https://line.me/ti/p/BIHBZWs-gw">Line</a> <br>
 </details>
